@@ -16,8 +16,8 @@
 ## 翻译进度
 - [] [Improve INSERT-per-second performance of SQLite?](https://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite)
 - [] [How do you set, clear, and toggle a single bit?](https://stackoverflow.com/questions/47981/how-do-you-set-clear-and-toggle-a-single-bit)
-- [1] [Do I cast the result of malloc?](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
+- [x] [Do I cast the result of malloc?](https://stackoverflow.com/questions/605845/do-i-cast-the-result-of-malloc)
 - [] [Why are elementwise additions much faster in separate loops than in a combined loop?](https://stackoverflow.com/questions/8547778/why-are-elementwise-additions-much-faster-in-separate-loops-than-in-a-combined-l)
-- [1] [What is the difference between #include <filename> and #include “filename”?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
-- [1] [What does the C ??!??! operator do?](https://stackoverflow.com/questions/7825055/what-does-the-c-operator-do)
-- [1] [What is “:-!!” in C code?](https://stackoverflow.com/questions/9229601/what-is-in-c-code)
+- [x] [What is the difference between #include <filename> and #include “filename”?](https://stackoverflow.com/questions/21593/what-is-the-difference-between-include-filename-and-include-filename)
+- [x] [What does the C ??!??! operator do?](https://stackoverflow.com/questions/7825055/what-does-the-c-operator-do)
+- [x] [What is “:-!!” in C code?](https://stackoverflow.com/questions/9229601/what-is-in-c-code)
