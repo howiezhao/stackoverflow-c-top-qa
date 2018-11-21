@@ -1,5 +1,5 @@
 # stackoverflow-c-top-qa
-![Progress](http://progressed.io/bar/20?title=done)
+![Progress](http://progressed.io/bar/12?title=done)
 
 本项目是对Stack Overflow上与C语言相关的投票数前100的问题的翻译合集，欢迎共同翻译。
 
@@ -33,10 +33,10 @@
 - [ ] [How to initialize all members of an array to the same value?](https://stackoverflow.com/questions/201101/how-to-initialize-all-members-of-an-array-to-the-same-value)
 - [ ] [How do I determine the size of my array in C?](https://stackoverflow.com/questions/37538/how-do-i-determine-the-size-of-my-array-in-c)
 - [ ] [Unit Testing C Code [closed]](https://stackoverflow.com/questions/65820/unit-testing-c-code)
-- [ ] [What is the difference between a definition and a declaration?](https://stackoverflow.com/questions/1410563/what-is-the-difference-between-a-definition-and-a-declaration)
+- [x] [What is the difference between a definition and a declaration?](https://stackoverflow.com/questions/1410563/what-is-the-difference-between-a-definition-and-a-declaration)
 - [ ] [Why are these constructs using pre- and post-increment undefined behavior?](https://stackoverflow.com/questions/949433/why-are-these-constructs-using-pre-and-post-increment-undefined-behavior)
 - [ ] [What is the strict aliasing rule?](https://stackoverflow.com/questions/98650/what-is-the-strict-aliasing-rule)
-- [ ] [What is the difference between ++i and i++?](https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i)
+- [x] [What is the difference between ++i and i++?](https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i)
 - [ ] [Why use apparently meaningless do-while and if-else statements in macros?](https://stackoverflow.com/questions/154136/why-use-apparently-meaningless-do-while-and-if-else-statements-in-macros)
 - [ ] [typedef struct vs struct definitions [duplicate]](https://stackoverflow.com/questions/1675351/typedef-struct-vs-struct-definitions)
 - [ ] [Difference between malloc and calloc?](https://stackoverflow.com/questions/1538420/difference-between-malloc-and-calloc)

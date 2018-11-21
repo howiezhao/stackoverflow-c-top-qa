@@ -10,3 +10,5 @@
 - [为什么C预处理器将单词“linux”解释为常量“1”？](contents/linux-1.md)
 - [C语言混乱代码大赛2006。请解释sykes2.c](contents/sykes2.md)
 - [C中的“static”是什么意思？](contents/static.md)
+- [定义和声明之间有什么区别？](contents/definition-declaration.md)
+- [++i和i++有什么区别？](contents/i++.md)
