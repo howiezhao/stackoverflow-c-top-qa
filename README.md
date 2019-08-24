@@ -1,17 +1,16 @@
 # stackoverflow-c-top-qa
-![Progress](http://progressed.io/bar/12?title=done)
 
-本项目是对Stack Overflow上与C语言相关的投票数前100的问题的翻译合集，欢迎共同翻译。
+本项目是对 Stack Overflow 上与 C 语言相关的投票数前 100 的问题的翻译合集，欢迎共同翻译。
 
-类似的项目还有[stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)，[stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)等等。
+类似的项目还有 [stackoverflow-java-top-qa](https://github.com/giantray/stackoverflow-java-top-qa)，[stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa) 等等。
 
-项目托管在GitBook上，要在线查看翻译结果，请访问：https://howiezhao.gitbook.io/stackoverflow-c-top-qa 。
+项目托管在 GitBook 上，要在线查看翻译结果，请访问：https://howiezhao.gitbook.io/stackoverflow-c-top-qa 。
 
 ## 参与贡献
 想要参与贡献，请参考[贡献指南](CONTRIBUTING.md)。
 
 ## 许可协议
-本文档采用[CC BY-SA 4.0](LiCENSE)许可协议，转载请注明出处！
+本文档采用 [CC BY-SA 4.0](LICENSE.md) 许可协议，转载请注明出处！
 
 ## 翻译进度
 - [ ] [Improve INSERT-per-second performance of SQLite?](https://stackoverflow.com/questions/1711631/improve-insert-per-second-performance-of-sqlite)
